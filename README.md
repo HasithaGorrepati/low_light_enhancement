@@ -5,6 +5,9 @@ We trained and tested the model using the LOL dataset and DarkFace dataset. Diff
 
 # Key Highlights
 No reference images required for training.
+
 Lightweight and efficient model architecture.
+
 Tested on LOL and DarkFace datasets.
+
 Results show improved visibility and reduced noise in low-light images.
